@@ -1,5 +1,5 @@
 streamlit
-joblib
+joblib==1.5.0
 shap
 nltk
 matplotlib
